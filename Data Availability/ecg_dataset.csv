@@ -1,0 +1,51 @@
+Patient ID,Age,ECG Sensor Value,Diagnosis
+P001,45,78,Normal
+P002,54,233,Heart Disease 2
+P003,60,154,Heart Disease 1
+P004,35,212,Heart Disease 2
+P005,50,89,Normal
+P006,42,247,Heart Disease 2
+P007,55,115,Heart Disease 1
+P008,38,36,Normal
+P009,46,225,Heart Disease 2
+P010,49,184,Heart Disease 1
+P011,37,102,Normal
+P012,52,14,Normal
+P013,44,156,Heart Disease 1
+P014,61,239,Heart Disease 2
+P015,39,198,Heart Disease 1
+P016,53,177,Heart Disease 1
+P017,47,31,Normal
+P018,36,144,Heart Disease 1
+P019,58,205,Heart Disease 2
+P020,51,210,Heart Disease 2
+P021,40,67,Normal
+P022,43,253,Heart Disease 2
+P023,56,94,Normal
+P024,59,221,Heart Disease 2
+P025,34,133,Heart Disease 1
+P026,48,48,Normal
+P027,62,164,Heart Disease 1
+P028,41,223,Heart Disease 2
+P029,57,92,Normal
+P030,33,137,Heart Disease 1
+P031,50,249,Heart Disease 2
+P032,39,189,Heart Disease 1
+P033,46,68,Normal
+P034,54,108,Heart Disease 1
+P035,37,217,Heart Disease 2
+P036,45,63,Normal
+P037,60,176,Heart Disease 1
+P038,52,142,Heart Disease 1
+P039,41,79,Normal
+P040,43,205,Heart Disease 2
+P041,59,56,Normal
+P042,48,126,Heart Disease 1
+P043,35,208,Heart Disease 2
+P044,61,92,Normal
+P045,40,137,Heart Disease 1
+P046,55,241,Heart Disease 2
+P047,36,159,Heart Disease 1
+P048,53,109,Heart Disease 1
+P049,38,220,Heart Disease 2
+P050,49,149,Heart Disease 1
